@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm MD ZAYN ALI
 
-<!--
-**ZAYN005/ZAYN005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Nanjing Tech University  
+💻 Full-Stack Web Developer  
+🚀 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+ech Stack
+Java • PHP • MongoDB • HTML • CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+Building scalable web applications & gaining industry experience.
+
+Looking For
+Software Development Internship Opportunities.
