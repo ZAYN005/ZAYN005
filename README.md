@@ -1,4 +1,4 @@
-# Hi 👋 I'm ZAYN ALI
+Hi 👋 I'm ZAYN ALI
 
 🎓 Computer Science Student at Nanjing Tech University  
 💻 Full-Stack Web Developer  
@@ -12,3 +12,4 @@ Building scalable web applications & gaining industry experience.
 
 Looking For
 Software Development Internship Opportunities.
+ORCID ID: 0009-0006-2329-6678
