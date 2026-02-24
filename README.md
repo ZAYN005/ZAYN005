@@ -1,4 +1,4 @@
-# Hi 👋 I'm MD ZAYN ALI
+# Hi 👋 I'm ZAYN ALI
 
 🎓 Computer Science Student at Nanjing Tech University  
 💻 Full-Stack Web Developer  
