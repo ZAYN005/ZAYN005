@@ -4,7 +4,7 @@ Hi 👋 I'm ZAYN ALI
 💻 Full-Stack Web Developer  
 🚀 Passionate about building real-world applications  
 
-ech Stack
+Tech Stack
 Java • PHP • MongoDB • HTML • CSS  
 
 Current Focus
